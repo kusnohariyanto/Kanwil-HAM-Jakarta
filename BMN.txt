@@ -1,3 +1,4 @@
 BMN (Barang Milik Negara) Kantor Wilayah Kementerian HAM DK Jakarta
 - Pengembangan Aplikasi SIMPAN dengan Tim Efektif Perubahan
 - Pengembangan tampilan BMN pada aplikasi Notion
+- Membuat virtual kantor untuk kanwil HAM jakarta
