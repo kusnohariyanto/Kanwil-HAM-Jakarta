@@ -1,2 +1,2 @@
 # Kanwil-HAM-Jakarta
-Repository untuk menyimpan rencana Kanwil HAM Jakarta Untuk kedepannya
+Repository untuk menyimpan rencana Kanwil HAM Jakarta Untuk Pengelolaan BMN 
